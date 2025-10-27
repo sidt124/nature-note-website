@@ -60,7 +60,7 @@ export default function Home() {
                 <div className="w-7 h-7 bg-primary rounded-full"></div>
               </div>
               <h3 className="text-xl font-bold text-foreground mb-4">
-                Premium Quality
+                Insert
               </h3>
               <p className="text-muted-foreground leading-relaxed">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
@@ -74,7 +74,7 @@ export default function Home() {
                 <div className="w-7 h-7 bg-primary rounded-full"></div>
               </div>
               <h3 className="text-xl font-bold text-foreground mb-4">
-                Luxury Craftsmanship
+                Insert
               </h3>
               <p className="text-muted-foreground leading-relaxed">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
@@ -88,7 +88,7 @@ export default function Home() {
                 <div className="w-7 h-7 bg-primary rounded-full"></div>
               </div>
               <h3 className="text-xl font-bold text-foreground mb-4">
-                Unique Scents
+                Insertxs
               </h3>
               <p className="text-muted-foreground leading-relaxed">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
