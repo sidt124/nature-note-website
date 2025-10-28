@@ -23,7 +23,7 @@ export default function About() {
             {/* Team Member 1 */}
             <div className="text-center">
               <div className="mb-8 aspect-square bg-secondary rounded-xl flex items-center justify-center border border-border shadow-md hover:shadow-lg transition-shadow duration-300">
-                <p className="text-muted-foreground">[Team Member Photo]</p>
+                <p className="text-muted-foreground">[Photo]</p>
               </div>
               <h3 className="text-xl font-bold text-foreground mb-2">
                 Anay Goyal
@@ -38,7 +38,7 @@ export default function About() {
             {/* Team Member 2 */}
             <div className="text-center">
               <div className="mb-8 aspect-square bg-secondary rounded-xl flex items-center justify-center border border-border shadow-md hover:shadow-lg transition-shadow duration-300">
-                <p className="text-muted-foreground">[Team Member Photo]</p>
+                <p className="text-muted-foreground">[Photo]</p>
               </div>
               <h3 className="text-xl font-bold text-foreground mb-2">
                 Sanjay Chellamuthu
@@ -53,7 +53,7 @@ export default function About() {
             {/* Team Member 3 */}
             <div className="text-center">
               <div className="mb-8 aspect-square bg-secondary rounded-xl flex items-center justify-center border border-border shadow-md hover:shadow-lg transition-shadow duration-300">
-                <p className="text-muted-foreground">[Team Member Photo]</p>
+                <p className="text-muted-foreground">[Photo]</p>
               </div>
               <h3 className="text-xl font-bold text-foreground mb-2">
                 Mahit Kapugorla
