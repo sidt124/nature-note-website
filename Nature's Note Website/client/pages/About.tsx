@@ -19,16 +19,16 @@ export default function About() {
             Meet the Team
           </h2>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
             {/* Team Member 1 */}
             <div className="text-center">
               <div className="mb-8 aspect-square bg-secondary rounded-xl flex items-center justify-center border border-border shadow-md hover:shadow-lg transition-shadow duration-300">
                 <p className="text-muted-foreground">[Team Member Photo]</p>
               </div>
               <h3 className="text-xl font-bold text-foreground mb-2">
-                Insert Name
+                Anay Goyal
               </h3>
-              <p className="text-primary font-semibold mb-4 text-sm uppercase tracking-wide">Lorem Ipsum</p>
+              <p className="text-primary font-semibold mb-4 text-sm uppercase tracking-wide">CEO</p>
               <p className="text-muted-foreground text-sm leading-relaxed">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
                 eiusmod tempor.
@@ -41,9 +41,9 @@ export default function About() {
                 <p className="text-muted-foreground">[Team Member Photo]</p>
               </div>
               <h3 className="text-xl font-bold text-foreground mb-2">
-                Insert Name
+                Sanjay Chellamuthu
               </h3>
-              <p className="text-primary font-semibold mb-4 text-sm uppercase tracking-wide">Dolor Sit Amet</p>
+              <p className="text-primary font-semibold mb-4 text-sm uppercase tracking-wide">Design</p>
               <p className="text-muted-foreground text-sm leading-relaxed">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
                 eiusmod tempor.
@@ -56,24 +56,9 @@ export default function About() {
                 <p className="text-muted-foreground">[Team Member Photo]</p>
               </div>
               <h3 className="text-xl font-bold text-foreground mb-2">
-                Insert Name
+                Mahit Kapugorla
               </h3>
-              <p className="text-primary font-semibold mb-4 text-sm uppercase tracking-wide">Consectetur</p>
-              <p className="text-muted-foreground text-sm leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-                eiusmod tempor.
-              </p>
-            </div>
-
-            {/* Team Member 4 */}
-            <div className="text-center">
-              <div className="mb-8 aspect-square bg-secondary rounded-xl flex items-center justify-center border border-border shadow-md hover:shadow-lg transition-shadow duration-300">
-                <p className="text-muted-foreground">[Team Member Photo]</p>
-              </div>
-              <h3 className="text-xl font-bold text-foreground mb-2">
-                Insert Name
-              </h3>
-              <p className="text-primary font-semibold mb-4 text-sm uppercase tracking-wide">Adipiscing Elit</p>
+              <p className="text-primary font-semibold mb-4 text-sm uppercase tracking-wide">Finance</p>
               <p className="text-muted-foreground text-sm leading-relaxed">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
                 eiusmod tempor.
